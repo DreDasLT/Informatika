@@ -1,0 +1,5 @@
+Is viso gyventoju gatveje: 34
+Is viso gyventoju kairiojoje gatves puseje: 20
+Is viso gyventoju desiniojoje gatves puseje: 14
+Vidutinis gyventoju skaicius name, esanciame kairiojoje gatves puseje: 4.00
+Vidutinis gyventoju skaicius name, esanciame desiniojoje gatves puseje: 2.80
