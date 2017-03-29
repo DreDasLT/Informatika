@@ -1,0 +1,15 @@
+Puokðtës gëlës
+-----------------------
+ G. Nr.   Þ. laikas
+-----------------------
+  1          12
+  2          9
+  3          16
+  4          4
+  5          16
+  6          16
+  7          8
+-----------------------
+Visos gëlës nuvys po 16 d.
+Gëliø, kurias reiktø dëti á puokðtæ, numeriai: 
+  3 5 6 
