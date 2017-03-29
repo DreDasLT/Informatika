@@ -1,0 +1,5 @@
+4 5 8.5
+Petras Petraitis 7 10 8 9 10
+Morka Morkutë 8 8 9 9 6
+Mikë Pûkuotukas 10 9 8 7 6
+Pilkas Şvirblis 9 9 9 8 8
