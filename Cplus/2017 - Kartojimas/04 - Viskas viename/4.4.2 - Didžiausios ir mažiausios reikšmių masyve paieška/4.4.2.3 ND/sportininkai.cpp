@@ -46,5 +46,4 @@ void Raso() {
     fr << x << " " << fixed << setprecision(2) << m[x] << " " << u[x] << " " <<  kcal[x] <<  setprecision(0) << " " << m[x] / (u[x]*u[x]) << endl;
     x = Didziausias(m);
     fr << x << " " << fixed << setprecision(2) << m[x] << " " << u[x] << " " <<  kcal[x] <<  setprecision(0) << " " << m[x] / (u[x]*u[x]) << endl;
-    // labas 123
 }
