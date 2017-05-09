@@ -1,0 +1,20 @@
+3
+Varğšuva-Praha        3
+Train110        8 38
+Train110        8 14
+Train407        11 5
+Praha-Viena          5
+Train60477      6 50
+Train73         6 04
+Train75         6 18
+Train77         4 43
+Train173        4 43
+Viena-Budapeštas     8
+Train463        2 45
+Railjet41       2 38
+Train10467      2 23
+Railjet49       2 28
+Train2821       2 38
+Train935        2 23
+Railjet61       2 38
+Railjet63       2 23

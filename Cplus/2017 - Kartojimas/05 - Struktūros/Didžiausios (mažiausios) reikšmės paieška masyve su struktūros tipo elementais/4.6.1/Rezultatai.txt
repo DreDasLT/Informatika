@@ -1,0 +1,6 @@
+Varğšuva-Praha        11 5
+Train407       
+Praha-Viena          6 50
+Train60477     
+Viena-Budapeštas     2 45
+Train463       

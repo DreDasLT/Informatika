@@ -1,0 +1,6 @@
+4 4 9
+4
+Agurkas         2.8 0.7 0.0
+Avokadas        5.1 1.7 26.4
+Brokolis        5.0 2.9 0.3
+Pomidoras       5.8 1.0 0.4
