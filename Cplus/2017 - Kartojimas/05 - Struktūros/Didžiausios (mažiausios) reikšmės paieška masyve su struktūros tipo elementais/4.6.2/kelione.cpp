@@ -10,10 +10,11 @@ struct degalines {
 
 void Skaitymas();
 void Rasymas();
-int Pigiausia();
+double Pigiausia(double sb, double sd);
 
 int main() {
 	Skaitymas();
+	Rasymas();
 	return 0;
 }
 
@@ -26,16 +27,28 @@ void Skaitymas() {
 		fd.get(a, 15);
 		D[i].pav = a;
 		fd >> D[i].bk >> D[i].dk;
-		cout << D[i].pav << " " << D[i].bk << " " << D[i].dk << endl;
 	}
 }
 
 void Rasymas() {
-
+	ofstream fr("Rezultatai.txt");
+	double sb, sd, sum;
+	sb = (b * (m/2)) / 100;
+	sd = (d * (m/2)) / 100;
+	double p = Pigiausia(sb, sd);
+	fr << p << endl;
+	for(int i = 0; i<n; i++) {
+		sum = sb * D[i].bk + sd * D[i].dk;
+		if(sum == p) fr << D[i].pav << " " << D[i].bk << " " << D[i].dk << endl;
+	}
 }
 
-int Pigiausia() {
-	for(int i=0;i<n;i++) {
-		if(D[i].bk)
+double Pigiausia(double sb, double sd) {
+	double sum = sb * D[0].bk + sd * D[0].dk, sum1, sum2;
+	for(int i=0;i<n-1;i++) {
+		sum1 = sb * D[i].bk + sd * D[i].dk;
+		sum2 = sb * D[i+1].bk + sd * D[i+1].dk;
+		if(sum1 >= sum2 ) sum = sum2;
 	}
+	return sum;
 }
