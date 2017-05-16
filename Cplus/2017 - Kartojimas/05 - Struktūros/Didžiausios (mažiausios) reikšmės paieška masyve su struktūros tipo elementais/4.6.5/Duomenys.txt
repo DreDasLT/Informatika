@@ -1,0 +1,21 @@
+20
+Java                      1 1
+C                         2 2
+C++                       3 3
+C#                        4 5
+Objective-C               5 8
+PHP                       6 4
+Visual Basic              7 7
+Python                    8 6
+Perl                      9 9
+JavaScript                10 12
+Ruby                      11 11
+Delphi/Object Pascal      12 10
+Lisp                      13 13
+PL/SQL                    14 23
+Transact-SQL              15 14
+Pascal                    16 16
+Ada                       17 18
+Logo                      18 35
+Assembly                  19 17
+ABAP                      20 25
