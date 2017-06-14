@@ -1,0 +1,5 @@
+Berniukai: 5
+Martynas    
+Mergaites: 3
+Greta       
+3 3 0 0 1 0 0 0 0 0 0 1 

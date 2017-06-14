@@ -1,0 +1,9 @@
+8
+Antanaitis   Martynas     v 2011 02 16
+Giedraitis   Antanas      v 2011 02 21
+Rokaitis     Rokas        v 2011 01 01
+Martinaitis  Martynas     v 2011 05 03
+Gretaite     Greta        m 2011 02 14
+Rasaite      Rasa         m 2011 01 10
+Juozaitis    Rokas        v 2011 12 12
+Gerdaite     Greta        m 2011 01 15
